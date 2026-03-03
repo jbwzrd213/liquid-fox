@@ -42,6 +42,9 @@ Open `about:config` in Firefox and set both of these to `true`:
 
 ```
 toolkit.legacyUserProfileCustomizations.stylesheets
+```
+and
+```
 widget.macos.titlebar-blend-mode.behind-window
 ```
 
